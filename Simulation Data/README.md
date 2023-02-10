@@ -1,4 +1,7 @@
 # Simulation Data Description
+
+Dropbox folder containing all files [here](https://www.dropbox.com/scl/fo/uel9061w1zvfyb7ko9ssr/h?dl=0&rlkey=red1p71slafpsctq37jxngfxy).
+
 The link included to a Dropbox folder contains the following files:
 - ID1.RData through ID5.RData (simulation data files generated according the SimulationCode.R file and discussed in the paper)
 - ccp02_1.RData through ccp02_5.RData (results from CCP02 method, corresponding to ID1 through ID5 data)

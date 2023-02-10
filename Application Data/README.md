@@ -1,5 +1,5 @@
 # Application Data Description
-The data for the application study was obtained from the [CRCNS data shaing website](https://crcns.org/data-sets). We use dataset 1 from hc-24 and cite the following works:
+The data for the application study was obtained from the [CRCNS data shaing website](https://crcns.org/data-sets). We use Section 1 from hc-24 and cite the following works:
 
 Varela, C. and M. A. Wilson (2019). Simultaneous extracellular recordings from midline thamalic neclei, median prefrontal cortex, and ca1 from rats cycling through bouts of sleep and wakefulness. Collaborative Research in Computational Neuroscience.
 

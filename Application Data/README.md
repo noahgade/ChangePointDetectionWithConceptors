@@ -6,7 +6,7 @@ Varela, C. and M. A. Wilson (2019). Simultaneous extracellular recordings from m
 Varela, C. and M. A. Wilson (2020, June). mpfc spindle cycles organize sparse thalamic activation and recently active ca1 cells during non-rem sleep. *eLife 9*, e48881.
 
 The folder contains:
-- crcns_hc-24_data_description (description of the CRCNS dataser hc-24)
+- crcns_hc-24_data_description (description of the CRCNS dataset hc-24)
 - Timestamp_LFP_600Hz.mat (timestamp of LFP measurements)
 - HC_LFP_600Hz.mat (LFP measurements taken from the hippocampus)
 - PFC_LFP_600Hz.mat (LFP measurements taken from the prefrontal cortex)
